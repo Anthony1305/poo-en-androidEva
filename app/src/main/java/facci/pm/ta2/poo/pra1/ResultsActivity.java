@@ -1,5 +1,6 @@
 package facci.pm.ta2.poo.pra1;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -74,7 +75,10 @@ public class ResultsActivity extends AppCompatActivity implements  ListView.OnIt
         // INICIO - CODE5
         //
         DataObject object = (DataObject) m_adapter.m_array.get(position);
-
+        Intent intent = new Intent(ResultsActivity.this, DetailActivity.class);
+        intent.putExtra("IdObjeto", object.m_objectId);
+        startActivity(intent);
+        // se crea objeto intent y se agrega el Id del objeto para pasar al siguiente Activity
         // FIN - CODE5
 
 
