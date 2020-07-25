@@ -25,11 +25,13 @@
     derecho del elemento que contiene la imagen del producto llamado
     "thumbnail",     y utiliza la propiedad "layout_below" para ubicarse debajo
     del TextView "title" que contiene el título del producto. -->
+
+<!--    cambio de id pra texview que muestra id de la moto -->
         <TextView
-            android:id="@+id/price"
+            android:id="@+id/modelo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Card price"
+            android:text="modelo"
             android:layout_toRightOf="@+id/thumbnail"
             android:layout_below="@+id/title"
             android:textAppearance="@android:style/TextAppearance.Holo.Small"

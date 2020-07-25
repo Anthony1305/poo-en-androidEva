@@ -54,6 +54,10 @@ public class ResultListAdapter extends BaseAdapter {
         ImageView  thumbnail=  (ImageView)vp.findViewById(R.id.thumbnail);
         thumbnail.setImageBitmap((Bitmap) object.get("image"));
 
+        TextView modelo = (TextView)vp.findViewById(R.id.modelo);
+        modelo.setText((String) object.get("modelo"));
+        //Se llama al texView del id modelo, para  mostrarlo en la clase java
+
 
         // ************************************************************************
         // INICIO - CODE4

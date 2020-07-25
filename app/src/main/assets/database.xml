@@ -15,8 +15,8 @@
             <properties>
                 <property name="type"><![CDATA[ MOTO ]]></property>
                 <property name="Marca"><![CDATA[Suzuki]]></property>
-                <property name="Modelo"><![CDATA[Modelo]]></property>
-                <property name="Matricula"><![CDATA[Matricula]]></property>
+                <property name="Modelo"><![CDATA[GSX250R]]></property>
+                <property name="Matricula"><![CDATA[UESAOLE146985217]]></property>
                 <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff10.jpg]]></property>
             </properties>
         </object>
@@ -24,8 +24,8 @@
             <properties>
                 <property name="type"><![CDATA[MOTO]]></property>
                 <property name="Marca"><![CDATA[Yamaha]]></property>
-                <property name="Modelo"><![CDATA[Modelo]]></property>
-                <property name="Matricula"><![CDATA[Matricula]]></property>
+                <property name="Modelo"><![CDATA[YZF-R3 2019-2020]]></property>
+                <property name="Matricula"><![CDATA[AWYSHIE712489634]]></property>
                 <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff11.jpg]]></property>
             </properties>
         </object>
@@ -33,8 +33,8 @@
             <properties>
                 <property name="type"><![CDATA[MOTO]]></property>
                 <property name="Marca"><![CDATA[Pulsar]]></property>
-                <property name="Modelo"><![CDATA[Modelo]]></property>
-                <property name="Matricula"><![CDATA[Matricula]]></property>
+                <property name="Modelo"><![CDATA[NS160]]></property>
+                <property name="Matricula"><![CDATA[WALDKEO698421384]]></property>
                 <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff12.jpg]]></property>
             </properties>
         </object>
