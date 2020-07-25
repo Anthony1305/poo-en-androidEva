@@ -20,33 +20,23 @@
                 <property name="Imagen"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff10.jpg]]></property>
             </properties>
         </object>
-        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff01">
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff02">
             <properties>
                 <property name="type"><![CDATA[MOTO]]></property>
                 <property name="Marca"><![CDATA[Marca]></property>
                 <property name="Modelo"><![CDATA[Modelo]]></property>
                 <property name="Matricula"><![CDATA[Matricula]]></property>
-                <property name="Imagen"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff10.jpg]]></property>
+                <property name="Imagen"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff11.jpg]]></property>
             </properties>
         </object>
-        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff01">
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff03">
             <properties>
                 <property name="type"><![CDATA[MOTO]]></property>
                 <property name="Marca"><![CDATA[Marca]></property>
                 <property name="Modelo"><![CDATA[Modelo]]></property>
                 <property name="Matricula"><![CDATA[Matricula]]></property>
-                <property name="Imagen"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff10.jpg]]></property>
+                <property name="Imagen"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff12.jpg]]></property>
             </properties>
         </object>
-        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff01">
-            <properties>
-                <property name="type"><![CDATA[MOTO]]></property>
-                <property name="Marca"><![CDATA[Marca]></property>
-                <property name="Modelo"><![CDATA[Modelo]]></property>
-                <property name="Matricula"><![CDATA[Matricula]]></property>
-                <property name="Imagen"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff10.jpg]]></property>
-            </properties>
-        </object>
-
     </class>
 </data>
