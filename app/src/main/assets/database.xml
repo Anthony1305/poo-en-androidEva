@@ -13,7 +13,7 @@
     <class name="item">
         <object Id="067e6162-3b6f-4ae2-a171-2470b63dff01">
             <properties>
-                <property name="type"><![CDATA[ MOTO ]]></property>
+                <property name="type"><![CDATA[MOTO]]></property>
                 <property name="Marca"><![CDATA[Suzuki]]></property>
                 <property name="Modelo"><![CDATA[GSX250R]]></property>
                 <property name="Matricula"><![CDATA[UESAOLE146985217]]></property>
