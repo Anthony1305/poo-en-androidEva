@@ -48,8 +48,8 @@ public class ResultListAdapter extends BaseAdapter {
         DataObject object = m_array.get(position);
 
         TextView title = (TextView)vp.findViewById(R.id.title);
-        title.setText((String) object.get("name"));
-
+        title.setText((String) object.get("Marca"));
+        //Se realizo el cambio del parametro name para poder mostrar el nombre del item
 
         ImageView  thumbnail=  (ImageView)vp.findViewById(R.id.thumbnail);
         thumbnail.setImageBitmap((Bitmap) object.get("image"));
