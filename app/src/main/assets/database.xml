@@ -13,7 +13,7 @@
     <class name="item">
         <object Id="067e6162-3b6f-4ae2-a171-2470b63dff01">
             <properties>
-                <property name="type"><![CDATA[console]]></property>
+                <property name="type"><![CDATA[ MOTO ]]></property>
                 <property name="Marca"><![CDATA[Marca]></property>
                 <property name="Modelo"><![CDATA[Modelo]]></property>
                 <property name="Matricula"><![CDATA[Matricula]]></property>
@@ -22,7 +22,7 @@
         </object>
         <object Id="067e6162-3b6f-4ae2-a171-2470b63dff01">
             <properties>
-                <property name="type"><![CDATA[console]]></property>
+                <property name="type"><![CDATA[MOTO]]></property>
                 <property name="Marca"><![CDATA[Marca]></property>
                 <property name="Modelo"><![CDATA[Modelo]]></property>
                 <property name="Matricula"><![CDATA[Matricula]]></property>
@@ -31,7 +31,7 @@
         </object>
         <object Id="067e6162-3b6f-4ae2-a171-2470b63dff01">
             <properties>
-                <property name="type"><![CDATA[console]]></property>
+                <property name="type"><![CDATA[MOTO]]></property>
                 <property name="Marca"><![CDATA[Marca]></property>
                 <property name="Modelo"><![CDATA[Modelo]]></property>
                 <property name="Matricula"><![CDATA[Matricula]]></property>
@@ -40,7 +40,7 @@
         </object>
         <object Id="067e6162-3b6f-4ae2-a171-2470b63dff01">
             <properties>
-                <property name="type"><![CDATA[console]]></property>
+                <property name="type"><![CDATA[MOTO]]></property>
                 <property name="Marca"><![CDATA[Marca]></property>
                 <property name="Modelo"><![CDATA[Modelo]]></property>
                 <property name="Matricula"><![CDATA[Matricula]]></property>
