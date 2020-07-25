@@ -47,15 +47,15 @@ public class ResultListAdapter extends BaseAdapter {
 
         DataObject object = m_array.get(position);
 
-        TextView title = (TextView)vp.findViewById(R.id.title);
-        title.setText((String) object.get("Marca"));
+        TextView marca = (TextView)vp.findViewById(R.id.title);
+        marca.setText((String) object.get("Marca"));
         //Se realizo el cambio del parametro name para poder mostrar el nombre del item
 
         ImageView  thumbnail=  (ImageView)vp.findViewById(R.id.thumbnail);
         thumbnail.setImageBitmap((Bitmap) object.get("image"));
 
         TextView modelo = (TextView)vp.findViewById(R.id.modelo);
-        modelo.setText((String) object.get("modelo"));
+        modelo.setText((String) object.get("Modelo"));
         //Se llama al texView del id modelo, para  mostrarlo en la clase java
 
 
