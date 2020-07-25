@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poo-en-androidEva.iml" filepath="$PROJECT_DIR$/.idea/modules/poo-en-androidEva.iml" group="poo-en-androidEva" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/poo-en-androidEva-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/poo-en-androidEva-app.iml" group="poo-en-androidEva/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poo-en-androidEva.iml" filepath="$PROJECT_DIR$/.idea/modules/poo-en-androidEva.iml" group="poo-en-androidEVa" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/poo-en-androidEva-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/poo-en-androidEva-app.iml" group="poo-en-androidEVa/app" />
       <module fileurl="file://$PROJECT_DIR$/trabajo-autonomo-2.iml" filepath="$PROJECT_DIR$/trabajo-autonomo-2.iml" />
     </modules>
   </component>
