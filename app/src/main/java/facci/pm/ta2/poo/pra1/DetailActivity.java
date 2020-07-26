@@ -38,15 +38,15 @@ public class DetailActivity extends AppCompatActivity {
 
         // vamos a extraer el parametro que se envio de la activity result
 
-        String idObjeto = getIntent().getStringExtra("idObjeto");
+        String Objeto_id = getIntent().getStringExtra("IdObjeto");
 
         //objetner la informacion de la base de datos para mostrar
 
         DataQuery query = DataQuery.get("item");
-        query.getInBackground(idObjeto, new GetCallback<DataObject>() {
+        query.getInBackground(Objeto_id, new GetCallback<DataObject>() {
             @Override
             public void done(DataObject object, DataException e) {
-                if (e==null){
+                if (e == null){
                     imgMoto.setImageBitmap((Bitmap) object.get("image"));
                     textMarca.setText((String) object.get("Marca"));
                     textModelo.setText((String) object.get("Modelo"));
